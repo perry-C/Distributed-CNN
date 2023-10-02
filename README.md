@@ -1,4 +1,9 @@
-# Instructions of deployment
+# Distributed-CNN
+
+## Methodologies used
+[report](https://github.com/perry-C/Distributed-CNN/blob/master/report.pdf)
+
+## Instructions of deployment
 if using aws academy: 
 - Update the **~/.aws/credentials** file to up-to-date version for the current session 
 
@@ -33,3 +38,4 @@ if using aws academy:
     fab ec2ssh rank0
     docker attach rank0
     ```
+
