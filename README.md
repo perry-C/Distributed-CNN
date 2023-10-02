@@ -1,9 +1,8 @@
 # Distributed-CNN
+## Architecture diagram
+![architecture_diagram drawio](https://github.com/perry-C/Distributed-CNN/assets/55983397/94cb19ff-5abb-47b2-a6c4-003229b6c446)
 
-## Methodologies used
-[report](https://github.com/perry-C/Distributed-CNN/blob/master/report.pdf)
-
-## Instructions of deployment
+## Instructions for deployment
 if using aws academy: 
 - Update the **~/.aws/credentials** file to up-to-date version for the current session 
 
